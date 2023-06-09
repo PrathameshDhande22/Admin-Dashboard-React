@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
-    "@fortawesome/fontawesome-free": "^6.4.0",
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,7 +11,6 @@
     "antd": "^5.6.0",
     "axios": "^1.4.0",
     "chart.js": "^4.3.0",
-    "mdb-react-ui-kit": "^6.1.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
