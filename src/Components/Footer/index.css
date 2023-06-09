@@ -1,0 +1,25 @@
+.footer {
+    height: 50px;
+    border-top: 1px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.rulesbook {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    padding-top: 10px;
+    flex-wrap: wrap;
+}
+
+.madeby {
+    display: flex;
+    justify-content: center;
+    padding: 5px 20px;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: white;
+}

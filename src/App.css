@@ -1,0 +1,14 @@
+.smnpgc {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 5px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
